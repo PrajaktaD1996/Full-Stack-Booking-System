@@ -1,0 +1,12 @@
+{
+  "name": "real-time-expert-booking-system",
+  "version": "1.0.0",
+  "scripts": {
+    "client": "npm start --prefix frontend",
+    "server": "npm run dev --prefix backend",
+    "dev": "concurrently \"npm run server\" \"npm run client\""
+  },
+  "devDependencies": {
+    "concurrently": "^9.2.1"
+  }
+}
