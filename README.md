@@ -2,6 +2,11 @@
 A full-stack web application that allows users to browse experts, view available time slots, and book sessions in real-time.
 Built using **React (Frontend)** and **Node.js + Express (Backend)**.
 
+
+<p align="center">
+  <img src="Booking-system.png" width="700" />
+</p>
+
 ---
 
 ## Features
@@ -30,8 +35,6 @@ Built using **React (Frontend)** and **Node.js + Express (Backend)**.
 
 ---
 
-## 📁 Project Structure
+## Deplayment -Link
 
-<p align="center">
-  <img src="Booking-system.png" width="700" />
-</p>
+
