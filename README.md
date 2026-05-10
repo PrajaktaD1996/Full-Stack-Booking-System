@@ -31,3 +31,7 @@ Built using **React (Frontend)** and **Node.js + Express (Backend)**.
 ---
 
 ## 📁 Project Structure
+
+<p align="center">
+  <img src="Booking-system.png" width="700" />
+</p>
